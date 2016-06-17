@@ -15,7 +15,7 @@
   "dependencies": {
     "debug": "*",
     "hexy": "^0.2.6",
-    "msgpack-bin": "0.3.0-1",
+    "msgpack-bin": "https://github.com/noxiouz/msgpack-bin.git#fix",
     "optimist": "~0.4",
     "q": "1.*"
   },
