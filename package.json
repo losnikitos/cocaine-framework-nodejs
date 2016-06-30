@@ -15,7 +15,7 @@
   "dependencies": {
     "debug": "*",
     "hexy": "^0.2.6",
-    "msgpack-bin": "0.3.0-1",
+    "msgpack": "~1.0.2",
     "optimist": "~0.4",
     "q": "1.*"
   },
